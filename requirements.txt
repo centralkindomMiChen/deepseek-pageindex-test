@@ -1,0 +1,7 @@
+PyQt5
+requests
+numpy
+jieba
+python-docx
+pandas
+openpyxl
